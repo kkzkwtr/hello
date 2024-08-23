@@ -1,0 +1,22 @@
+html {
+    background-color: red;
+    height: 100px;
+    width: 200px;
+}
+.intro {
+    color: red; /* 文字色を赤に変更 */
+    background-color: yellow; /* 背景色を黄色に変更 */
+    height: 50px;
+    width: 100px;
+    font-family: Arial;
+    font-size: 200px;
+}
+.list {
+    font-size: 100px;
+    font-family: 'Times New Roman';
+}
+.list {
+    color: blue; /* 文字色を青に変更 */
+    background-color: green; /* 背景色を緑に変更 */
+    list-style: none;
+}
